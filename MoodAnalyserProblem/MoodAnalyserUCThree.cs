@@ -34,13 +34,5 @@ namespace MoodAnalyserProblem
         }
     }
 
-
-    public class MoodAnalysisException : Exception
-    {
-        public MoodAnalysisException(string msg) : base(msg)
-        {
-
-        }
-    }
 }
 
